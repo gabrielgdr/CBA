@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538053515948.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2136096312",
+    "id" : "E930AC0D",
+    "lastKnownWriteTime" : 1538055118,
+    "last_content_update" : 1538055118327,
+    "path" : "C:/Users/Gabriel DR/Dropbox/gabriel_rodrigues/cba/R/cba.R",
+    "project_path" : "R/cba.R",
+    "properties" : {
+        "cursorPosition" : "28,11",
+        "scrollLine" : "15"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
