@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1538053515948.000,
+    "created" : 1543236976019.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "2136096312",
-    "id" : "E930AC0D",
+    "id" : "95CB549D",
     "lastKnownWriteTime" : 1538055118,
-    "last_content_update" : 1538055118327,
-    "path" : "C:/Users/Gabriel DR/Dropbox/gabriel_rodrigues/cba/R/cba.R",
+    "last_content_update" : 1538055118,
+    "path" : "C:/Users/gabrielrs/Dropbox/gabriel_rodrigues/cba/R/cba.R",
     "project_path" : "R/cba.R",
     "properties" : {
-        "cursorPosition" : "24,6",
-        "scrollLine" : "11"
+        "cursorPosition" : "18,27",
+        "scrollLine" : "0"
     },
-    "relative_order" : 1,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

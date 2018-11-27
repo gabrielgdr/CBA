@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543236954279.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3913346508",
+    "id" : "C8FC88B9",
+    "lastKnownWriteTime" : 1538054344,
+    "last_content_update" : 1538054344,
+    "path" : "C:/Users/gabrielrs/Dropbox/gabriel_rodrigues/cba/R/cbaMethods.r",
+    "project_path" : "R/cbaMethods.r",
+    "properties" : {
+        "cursorPosition" : "72,12",
+        "scrollLine" : "66"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
